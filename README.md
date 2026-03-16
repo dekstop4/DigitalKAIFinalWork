@@ -22,7 +22,7 @@
 
 ```bash
 # Клонирование репозитория
-git clone <ссылка на репозиторий>
+git clone [<ссылка на репозиторий>](https://github.com/dekstop4/DigitalKAIFinalWork)
 cd workers_compensation_project
 
 # Установка зависимостей
